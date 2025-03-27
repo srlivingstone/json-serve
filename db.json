@@ -1,0 +1,34 @@
+{
+  "graphicsCards": [
+    {
+      "id": 5928101,
+      "img": "n4070.jpg",
+      "model": "GeForce 4070",
+      "cost": 3850
+    },
+    {
+      "id": 4582797,
+      "img": "n4090.jpg",
+      "model": "GeForce 4090",
+      "cost": 4500
+    },
+    {
+      "id": 8419988,
+      "img": "n5090.jpg",
+      "model": "GeForce 5090",
+      "cost": 7500
+    },
+    {
+      "id": 5928104,
+      "img": "n5070ti.jpg",
+      "model": "GeForce 5070ti",
+      "cost": 6250
+    },
+    {
+      "id": 45854797,
+      "img": "n5080.jpg",
+      "model": "GeForce 5080",
+      "cost": 6500
+    }
+  ]
+}
